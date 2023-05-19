@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-image: url(https://th.bing.com/th/id/R.5a0e6791ca9eb843bbe256ac97784b0f?rik=Prr1hh%2bDZYFxgg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fa%2f2%2f1%2f704293-beautiful-cool-colors-wallpaper-1920x1200-for-ipad-pro.jpg&ehk=W%2b%2blqvAk%2f0Gg1WPX9ehiCW8tfND4hna9bDmvELXJ05E%3d&risl=&pid=ImgRaw&r=0);
+  }
+  
+  header {
+    
+    color: #fff;
+    padding: 10px;
+    background-image: url(https://th.bing.com/th/id/R.5a0e6791ca9eb843bbe256ac97784b0f?rik=Prr1hh%2bDZYFxgg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fa%2f2%2f1%2f704293-beautiful-cool-colors-wallpaper-1920x1200-for-ipad-pro.jpg&ehk=W%2b%2blqvAk%2f0Gg1WPX9ehiCW8tfND4hna9bDmvELXJ05E%3d&risl=&pid=ImgRaw&r=0);
+  
+  
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+
+  .content {
+    
+  
+    color: #fff;
+    border-radius: 20px;
+    background-color:   #03b1b1;
+    box-shadow: 0px 0px 20px 0.7px rgba(0, 0, 0, 10);
+    padding: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    width: 300px;
+    background-image: url(https://th.bing.com/th/id/R.5a0e6791ca9eb843bbe256ac97784b0f?rik=Prr1hh%2bDZYFxgg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fa%2f2%2f1%2f704293-beautiful-cool-colors-wallpaper-1920x1200-for-ipad-pro.jpg&ehk=W%2b%2blqvAk%2f0Gg1WPX9ehiCW8tfND4hna9bDmvELXJ05E%3d&risl=&pid=ImgRaw&r=0);
+  }
+  
+  h1 {
+    color: #ffffff;
+    text-align: center;
+    position: absolute;
+    top: 25%;
+    left: 38% ;
+  }
+  
+  input[type="text"],
+  input[type="password"],
+  input[type="email"],
+  input[type="date"],
+  input[type="submit"] {
+    display: inline-block;
+    margin-bottom: 40px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+
+  }
+  
+  input[type="submit"] {
+    background-color: #f1e9e9;
+    color: #191818;
+    cursor: pointer;
+    box-shadow: 0px 0px 20px 0.7px rgba(0, 0, 0, 10);
+  }
+  
+
+  .h1{
+    color: #fff;
+  }
